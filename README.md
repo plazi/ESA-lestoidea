@@ -1,4 +1,4 @@
-# ESA-lestoidea
+# ESA-Lestoidea
 this is the repository for the ESA Lestoidea cybercatalogue, to be presented at the ESA meeting, November 17-20, https://www.entsoc.org/events/annual-meeting
 
 
